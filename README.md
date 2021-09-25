@@ -26,6 +26,8 @@ Usually it will be like this.
 		    iconP2.animation.curAnim.curFrame = 1;
 		else
 		    iconP2.animation.curAnim.curFrame = 0;
+
+![image](https://user-images.githubusercontent.com/82280216/134770332-6acd0226-4042-4cde-b6d3-9ecf4c06e63d.png)
       
 To be like this
 
@@ -42,3 +44,10 @@ To be like this
 	            iconP2.animation.curAnim.curFrame = 2;
 		else
 		    iconP2.animation.curAnim.curFrame = 0;
+		    
+![image](https://user-images.githubusercontent.com/82280216/134770374-e91903f3-786d-47d8-a4cb-beac4e515d06.png)
+
+5. Run game With
+		
+	 	Lime test windows
+
