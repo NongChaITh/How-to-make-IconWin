@@ -4,9 +4,9 @@ Need
 
 1.Visual Studio Code 2017 or 2019
 
-2.IconGird with normal death win
+2.IconGrid with normal death win
 
-If you doesn't have IconGird with normal death win download this!
+If you doesn't have IconGrid with normal death win download this!
 
 ![iconGrid](https://user-images.githubusercontent.com/82280216/134770476-d54b272d-f1d0-404c-b7b0-694e9332a961.png)
 
