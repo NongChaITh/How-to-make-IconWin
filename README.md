@@ -4,4 +4,8 @@ Need
 2.IconGird with normal death win
 
 1. Go to HealthIcon.hx
-![Screenshot (567)](https://user-images.githubusercontent.com/82280216/134769360-e5bad8a0-577c-41e9-90ca-5fb2e4c88f92.png)
+![image](https://user-images.githubusercontent.com/82280216/134769393-4a1d13af-416b-4ae4-ad06-dac9182906ed.png)
+2.ctrl + f animation.add('bf', [0, 1, 2], 0, false, isPlayer);
+beetween [Number, Number, Number] is Number Icon exemple
+![image](https://user-images.githubusercontent.com/82280216/134769562-ae683891-e0fa-49e8-b580-86d8c4a655fd.png)
+
