@@ -14,9 +14,13 @@ If you doesn't have IconGrid with normal death win download this!
 
 ![image](https://user-images.githubusercontent.com/82280216/134769393-4a1d13af-416b-4ae4-ad06-dac9182906ed.png)
 
-2.ctrl + f animation.add('bf-car', [0, 1], 0, false, isPlayer);
+2.ctrl + f 
 
-beetween [Number, Number] is Number Icon exemple
+animation.add('bf-car', [0, 1], 0, false, isPlayer);
+
+beetween [Number, Number] is Number Icon 
+
+exemple
 
 ![image](https://user-images.githubusercontent.com/82280216/134769562-ae683891-e0fa-49e8-b580-86d8c4a655fd.png)
 
@@ -32,7 +36,9 @@ and ctrl + s to save
 
 ![image](https://user-images.githubusercontent.com/82280216/134769856-adafd431-70d5-4e33-b123-33bfbedbac28.png)
 
-and ctrl + f  if (health > 2)
+and ctrl + f  
+
+if (health > 2)
 
 Usually it will be like this.
 
